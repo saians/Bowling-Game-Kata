@@ -1,0 +1,10 @@
+C:\Users\steve\Documents\BowlingGame\BowlingGame\bin\Debug\BowlingGame.dll
+C:\Users\steve\Documents\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Users\steve\Documents\BowlingGame\BowlingGame\obj\Debug\BowlingGame.dll
+C:\Users\steve\Documents\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
+C:\Users\steve\Documents\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGame\bin\Debug\BowlingGame.dll
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGame\obj\Debug\BowlingGame.dll
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGame\obj\Debug\BowlingGame.pdb
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache

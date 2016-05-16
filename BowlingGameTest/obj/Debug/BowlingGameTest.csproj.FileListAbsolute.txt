@@ -1,0 +1,14 @@
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\bin\Debug\BowlingGameTest.dll
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\bin\Debug\BowlingGameTest.pdb
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\bin\Debug\BowlingGame.dll
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\bin\Debug\BowlingGame.pdb
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\obj\Debug\BowlingGameTest.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\obj\Debug\BowlingGameTest.dll
+C:\Users\steve\Documents\BowlingGame\BowlingGameTest\obj\Debug\BowlingGameTest.pdb
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\bin\Debug\BowlingGameTest.dll
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\bin\Debug\BowlingGameTest.pdb
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\bin\Debug\BowlingGame.dll
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\bin\Debug\BowlingGame.pdb
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\obj\Debug\BowlingGameTest.csprojResolveAssemblyReference.cache
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\obj\Debug\BowlingGameTest.dll
+C:\Users\steve\Downloads\BowlingGameAttemptTwo\BowlingGameAttemptTwo\BowlingGameTest\obj\Debug\BowlingGameTest.pdb
